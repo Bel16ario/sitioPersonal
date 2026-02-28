@@ -49,3 +49,6 @@ theme = "terminal"
   [caches.images]
     dir = ':cacheDir/images'
 
+[params.Logo]
+  logoText = "Luca Belaunzarán"
+  logoHomeLink = "/"
