@@ -71,8 +71,12 @@ img {
     order: 1;
   }
 
-  /* also catch standalone wide images */
+  div[style*="display: flex"] img[style*="width"] {
+    width: 100% !important;
+  }
+
   img {
     max-width: 100% !important;
+    width: auto !important;
   }
 }
