@@ -1,0 +1,57 @@
+:root {
+  --background: #121212;
+  --foreground: #BFBFBF;
+  --accent: #FF7431;
+  --accent-secondary: #FFD700;
+  --green: #00CC7A;
+  --cyan: #00BFFF;
+  --red: #FF5454;
+  --selection: #404040;
+  --comment: #767C77;
+}
+
+/* Apply to Terminal theme variables */
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+.terminal-prompt,
+.post-title a,
+.menu-item a,
+h1, h2, h3 {
+  color: var(--accent);
+}
+
+a {
+  color: var(--cyan);
+}
+
+a:hover {
+  color: var(--accent-secondary);
+}
+
+/* Fix the narrow width */
+.container {
+  max-width: 1800px;
+}
+
+::selection {
+  background: var(--selection);
+}
+
+img {
+  border-width: 2px;
+}
+
+@media (max-width: 768px) {
+  div[style*="display: flex"] {
+    flex-direction: column !important;
+  }
+
+  div[style*="display: flex"] img {
+    width: 100% !important;
+    max-height: 250px;
+    object-fit: cover;
+  }
+}
