@@ -15,7 +15,7 @@ NCEA Level 2 — Excellence Endorsement
 NCEA Level 3 — Excellence Endorsement
 
 </div>
-<img src="/images/gbhs.jpg" alt="Green Bay High School" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/gbhs.webp" alt="Green Bay High School" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 </div>
 
 ---
@@ -30,7 +30,7 @@ Aerospace Engineering — Aeronautical exit module
 Bachelor's thesis in progress
 
 </div>
-<img src="/images/fi.jpg" alt="Facultad de Ingeniería" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/fi.webp" alt="Facultad de Ingeniería" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 </div>
 
 ---
@@ -51,6 +51,6 @@ Exchange student — Faculty of Mechanical Engineering and Robotics
 - Individual Research Project Related to Mechatronic Design
 
 </div>
-<img src="/images/agh.jpg" alt="AGH" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/agh.webp" alt="AGH" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 </div>
 

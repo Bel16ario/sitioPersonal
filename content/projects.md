@@ -17,14 +17,14 @@ When on exchange at AGH, I enrolled in the Individual Research Project Related t
 [Code](https://github.com/Bel16ario/uasisi/tree/main/examples/reinforcementLearning) · [Report](/docs/reinforce.pdf) 
 
 </div>
-<img src="/images/projects/reinforce.jpg" alt="REINFORCE" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/reinforce.webp" alt="REINFORCE" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 </div>
 
 ---
 
 ## UASISI
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
-<img src="/images/projects/uasisi.jpg" alt="UASISI" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/uasisi.webp" alt="UASISI" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 <div style="flex: 1;">
 
 ### 2025–2026
@@ -53,14 +53,14 @@ For my final project in my Microcontrollers and Microprocessors course, I develo
 [Code](https://github.com/Bel16ario/audioOsc)
 
 </div>
-<img src="/images/projects/oscilloscope.jpg" alt="Oscilloscope" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/oscilloscope.webp" alt="Oscilloscope" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 </div>
 
 ---
 
 ## Panel Method Solver
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
-<img src="/images/projects/panel.jpg" alt="Panel Method" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/panel.webp" alt="Panel Method" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 <div style="flex: 1;">
 
 ### 2024
@@ -87,14 +87,14 @@ Due to a student strike in autumn 2022, an oversight committee comprised by stud
 [Newsletter 1](https://www.comunicacionfi.unam.mx/mostrar_nota.php?id_noticia=2669) · [Newsletter 2](https://www.comunicacionfi.unam.mx/mostrar_nota.php?id_noticia=2826)
 
 </div>
-<img src="/images/projects/pcpuma.jpg" alt="PCPuma" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/pcpuma.webp" alt="PCPuma" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 </div>
 
 ---
 
 ## Line Follower
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
-<img src="/images/projects/follower.jpg" alt="Line Follower" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/follower.webp" alt="Line Follower" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 <div style="flex: 1;">
 
 ### 2023
@@ -123,14 +123,14 @@ This was the final project for my Introduction to Programming course. I develope
 [Code](https://github.com/Bel16ario/cramerSolver)
 
 </div>
-<img src="/images/projects/matrix.jpg" alt="Matrix Solver" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/matrix.webp" alt="Matrix Solver" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 </div>
 
 ---
 
 ## Consejo Table
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
-<img src="/images/projects/consejo.jpg" alt="Consejo Table" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
+<img src="/images/projects/consejo.webp" alt="Consejo Table" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
 <div style="flex: 1;">
 
 ### 2019

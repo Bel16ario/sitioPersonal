@@ -14,6 +14,6 @@ I was proudly born and raised in the Tlalpan borough in southern Mexico City. Ho
 
 [Download my CV here](/docs/CV.pdf)
 </div>
-<img src="/images/krakow.jpg" alt="Luca Belaunzarán" style="width: 750px; flex-shrink: 0; border-radius: 1px; object-fit: cover">
+<img src="/images/krakow.webp" alt="Luca Belaunzarán" style="width: 750px; flex-shrink: 0; border-radius: 1px; object-fit: cover">
 </div>
 

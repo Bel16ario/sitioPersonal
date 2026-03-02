@@ -15,8 +15,8 @@ Also worth mentioning about myself is my passion for Free and Open Source Softwa
 Living and studying in West Auckland for a handful of years, I had privileged access to all of the west coast beaches in the Auckland region. Amongst them, a beach called Muriwai stood out the most to me. This is the place to one of the only australasian gannet colonies on land in the world. It did not take many visits for me to become obsessed with these birds. I remember developing a profound jealousy over my inability to fly, and to fly as gracefully as they did. It was clear to me at this point that I wanted to study aeronautical engineering. Since then, birds have never ceased to amaze me. I begun bird watching and when film photography came into my life, the very complex problem of analog bird photography started making the rounds in my head. I still have not figured a consistent approach, and unfortunately, my main camera broke down recently. However, I am excited to start trying again soon. 
 
 </div>
-<img src="/images/zakopane.jpg" alt="Luca Belaunzarán" style="width: 750px; border-radius: 1px; flex-shrink: 0; object-fit: cover;">
+<img src="/images/zakopane.webp" alt="Luca Belaunzarán" style="width: 750px; border-radius: 1px; flex-shrink: 0; object-fit: cover;">
 </div>
 
 <div style="clear: both;"></div>
-<img src="/images/rzeszow.jpg" alt="Rzeszów" style="float: right; margin: 0 0 1rem 2rem; width: 1800px; border-radius: 1px;">
+<img src="/images/rzeszow.webp" alt="Rzeszów" style="float: right; margin: 0 0 1rem 2rem; width: 1800px; border-radius: 1px;">
