@@ -1,6 +1,7 @@
 ---
 title: "Education"
 draft: false
+description: "Luca Belaunzaran's education. Aerospace Engineering at UNAM (México City), High School at GBHS (Auckland), Exchange Semester at AGH (Krakow)."
 ---
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">

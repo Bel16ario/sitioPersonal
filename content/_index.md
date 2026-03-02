@@ -1,21 +1,19 @@
 ---
-title: "About"
+title: "Luca Belaunzarán"
 draft: false
 showDate: false
+description: "Luca Belaunzarán - Aerospace Enginnering Student at UNAM. Specializing in aeroservoelasticity and morphic wings. Experienced in C, C++, embedded systems and reinforcement learning"
 ---
 
-<img src="/images/krakow.jpg" alt="Luca Belaunzarán" style="float: right; margin: 0 0 1rem 2rem; width: 750px; border-radius: 1px;">
+<div style = "display:flex; gap:2rem; align-items:stretch;">
+<div style = "flex:1;">
 
 My name is Luca Eugenio Belaunzarán Consejo and I'm a last year Aerospace Engineering student at the National Autonomous University of México (UNAM). I'm currently going through my degree's aeronautical exit module and I am trying to specialize in topics relating to aeroservoelasticity and morphic wings ahead of pursuing postgraduate studies abroad. Currently, my goal is to find an internship opportunity to learn about the industry and build some work experience. Despite my field of study, I believe that I'm proficient in broader engineering areas such as software, electronics and design. As such, I don't close myself from opportunities in related STEM fields. At the moment, I have all but finished my degree's coursework and I'm in the process of writing my bachelor thesis.
 
 I was proudly born and raised in the Tlalpan borough in southern Mexico City. However, throughout the years I have had the opportunity to live overseas for extended periods of time. As a kid, I spent a six months living in Bristol and later on five years in Auckland where I studied my high school in full at Green Bay High School. This past year, I went on exchange to Kraków to study at the Akademia Górniczo-Hutnicza (AGH) for a semester. Living in multicultural societies in the UK and in New Zealand was a unique experience which opened my mind to different cultures and ways of living across the world. Most importantly, I was able to pick up the language quite well and last year I sat the IELTS where I obtained a diploma equivalent to the C2 level in the CEFR framework. Learning languages is something that I enjoy and in addition to english, I have a DELF diploma for B2 level french and I'm in the process of learning the beautiful polish language.
 
-Engineering is my passion and as such, I happily devote a lot of my time to my studies and to personal side projects. However, when I'm not doing anything engineering related, I love analog photography which pairs perfectly with my other extracurricular interests: traveling, birdwatching and bird photography. I also have a group of friends with whom I produce music and this, along with photography, serve as my creative outlets. In both cases, I love the process of creating something from scratch. I enjoy each step which transforms the picture or the track and I spend my days thinking about different combinations of processes that might yield something nobody has created before. Cooking has been something recent that I picked up, and in a similar way to photography and music, the transformation processes in gastronomy fascinate me. I'm planning to explore cheese and sausage making to further experiment with food transformation.
+[Download my CV here](/docs/CV.pdf)
+</div>
+<img src="/images/krakow.jpg" alt="Luca Belaunzarán" style="width: 750px; flex-shrink: 0; border-radius: 1px; object-fit: cover">
+</div>
 
-Also worth mentioning about myself is my passion for Free and Open Source Software (FOSS) and birds. FOSS is something usually associated with software professionals of some kind who appear to have complete mastery over the operating system stemming from their education. As someone from a different engineering field, I have had different but greatly rewarding journey with FOSS. I started using void-linux as my main operating system during the summer of 2021. I learnt a lot just from configuring the system and installing basic programs. Over the years, I have become increasingly more comfortable finding, installing and using FOSS. Things that seemed almost supernatural like compiling software from source have become familiar and every year I find myself depending on less and less propietary programs. Something that I particularly love about FOSS is the idea of becoming an active user in the products and services that you use, helping them to improve for oneself and others. Contributing meaningfully to open source projects has been a goal of mine for a long time. I still need to improve and the complexity of some of my predilect projects (like OpenFOAM or KiCad) is quite intimidating. However, I am confident that each year that passes I'm closer to achieving this goal and a couple of weeks ago I uploaded my first serious open source project.
-
-Living and studying in West Auckland for a handful of years, I had privileged access to all of the west coast beaches in the Auckland region. Amongst them, a beach called Muriwai stood out the most to me. This is the place to one of the only australasian gannet colonies on land in the world. It did not take many visits for me to become obsessed with these birds. I remember developing a profound jealousy over my inability to fly, and to fly as gracefully as they did. It was clear to me at this point that I wanted to study aeronautical engineering. Since then, birds have never ceased to amaze me. I begun bird watching and when film photography came into my life, the very complex problem of analog bird photography started making the rounds in my head. I still have not figured a consistent approach, and unfortunately, my main camera broke down recently. However, I am excited to start trying again soon. 
-
-
-<div style="clear: both;"></div>
-<img src="/images/rzeszow.jpg" alt="Rzeszów" style="float: right; margin: 0 0 1rem 2rem; width: 1800px; border-radius: 1px;">

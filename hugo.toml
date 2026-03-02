@@ -1,19 +1,26 @@
 baseURL = "https://belaunzaran.com/"
 languageCode = "en-us"
-title = "Luca Belaunzarán"
+title = "Luca Belaunzarán - Aerospace Engineer"
 theme = "terminal"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
   contentTypeName = "posts"
   themeColor = "orange"
-  showMenuItems = 6
+  showMenuItems = 7
   fullWidthTheme = false
   centerTheme = true
+  Subtitle = "Luca Belaunzarán - Aerospace Engineering student at UNAM specializing in aeroservoelasticity and morphic wings."
 
 [[menu.main]]
-  name = "About"
-  url = "/about"
+  name = "Home"
+  url = "/"
   weight = 1
+
 
 [[menu.main]]
   name = "Projects"
@@ -39,6 +46,11 @@ theme = "terminal"
   name = "Contact"
   url = "/contact"
   weight = 6
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 7
 
 [markup]
   [markup.goldmark]

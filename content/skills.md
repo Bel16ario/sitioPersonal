@@ -2,6 +2,7 @@
 title: "Skills"
 draft: false
 showDate: false
+description: "Technical skills: C, C++, Go, Python, Assembly, VHDL, Linux, OpenFOAM, QUCS, FreeRTOS, QNX, Torch"
 ---
 
 ## Domains

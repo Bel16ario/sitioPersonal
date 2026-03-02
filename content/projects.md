@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 draft: false
+description: "Projects by Luca Belaunzarán. UASISI simulation framework, Inverse Aerodynamic Lift Mappings, and more."
 ---
 
 ## Inverse Lift Mapping with REINFORCE
@@ -8,6 +9,8 @@ draft: false
 <div style="flex: 1;">
 
 ### 2026
+
+<kbd>Reinfocement Learning</kbd> <kbd>UASISI</kbd> <kbd>Torch</kbd> <kbd>Python</kbd>
 
 When on exchange at AGH, I enrolled in the Individual Research Project Related to Mechatronic Design course. However, I spent most of my free time during this semester developing the UASISI simulation framework. When it came time to put a project together, I decided to utilize my newly developed framework and I set forth to find a solution to map lift distribution to wing torsion. Using UASISI's python wrapper module along with the pyTorch package, I implemented a reinfocement learning scenario using a convolutional neural network as the agent. The code was included in UASISI's GitHub repo as an example.
 
@@ -26,6 +29,8 @@ When on exchange at AGH, I enrolled in the Individual Research Project Related t
 
 ### 2025–2026
 
+<kbd>C++</kbd> <kbd>pybind11</kbd> <kbd>CMake</kbd> <kbd>Python</kbd> <kbd>HDF5</kbd>
+
 UASISI is an extendible and modular simulation framework written in C++. It is optimized for problems related to wings. I undertook this project when I realised the difficulty involved in coupling simulink with external software which was necessary for my thesis. For work relating to my thesis, I wanted to be able to integrate both Torch's Machine Learning capabilities and OpenFOAM simulations. I decided to port my simulation to a new framework that I developed from scratch. UASISI, like simulink, is signal based. Modules are implemented in separate C++ source files with separate dependencies. I have written about 10 modules so far, including a python wrapper and a lift estimation tool using Phillips' solution to Prandtl's Lifting Line Theory. Also included in the proyect is a logger and a python based data visualizer. I uploaded the project to GitHub and I am working on making the code more generic to accomodate more use cases and hopefully be useful to people other than myself. 
 
 [GitHub](https://github.com/Bel16ario/uasisi)
@@ -41,7 +46,9 @@ UASISI is an extendible and modular simulation framework written in C++. It is o
 
 ### 2024
 
-For my final project in my Microcontrollers and Microprocessors course, I developed an audio digital oscilloscope using a Texas Instruments TIVA C TM4C1294 microcontroller. The project was coded in C and the Hardware Abstraction Layer (HAL) was written from scratch in TI's CCS IDE. A TFT display was used to display the audio signal. This course in general taught me not only to program in assembly and low level C, but also to effectively comb through very long datasheets.
+<kbd>C</kbd> <kbd>ARM Cortex-M4</kbd> <kbd>Custom HAL</kbd> <kbd>ST7796s</kbd>
+
+For my final project in my Microcontrollers and Microprocessors course, I developed an audio digital oscilloscope using a Texas Instruments TIVA C TM4C1294 microcontroller. The project was coded in C and the Hardware Abstraction Layer (HAL) was written from scratch in TI's CCS IDE. A TFT display with a Sitronix ST7796s driver was used to display the audio signal. This course in general taught me not only to program in assembly and low level C, but also to effectively comb through very long datasheets.
 
 [Code](https://github.com/Bel16ario/audioOsc)
 
@@ -57,6 +64,8 @@ For my final project in my Microcontrollers and Microprocessors course, I develo
 <div style="flex: 1;">
 
 ### 2024
+
+<kbd>Go</kbd> <kbd>gnuplot</kbd>
 
 The final project in my Aerodynamics course was supposed to be to code a potential flow simulator. Due to the complexity and the short amount of time left, the project was changed to simply simulate flow over an airfoil using a pre-existing solver. I decided to write a simulator myself regardless and I used the Panel Method to do so. The program is coded in Go and it takes data files with airfoil coordinates, as well as flow parameters through arguments.
 
@@ -90,24 +99,28 @@ Due to a student strike in autumn 2022, an oversight committee comprised by stud
 
 ### 2023
 
+<kbd>C</kbd> <kbd>Arduino</kbd> <kbd>ESP32</kbd> <kbd>3D Printing</kbd>
+
 This line follower was built for the recruitment process into my faculty's robotics club. The frame was 3D printed and held together with copper inserts and metric screws. A maximum of two reflectivity sensors were allowed. A ESP-32 microcontroller programmed with Arduino was used alongside two pololu motors. It was the only line follower that managed to follow the line smoothly 
 
-[Code]() · [Video](/docs/follower.mov)
+[Code](https://github.com/Bel16ario/lineFollower) · [Video](/docs/follower.mov)
 
 </div>
 </div>
 
 ---
 
-## Matrix Solver
+## Cramer's Solver
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
 <div style="flex: 1;">
 
 ### 2022
 
-This was the final project for my Introduction to Programming course. I developed a program written in C that can calculate the determinant of a square matrix of any size. This was my first approach to manual memory management and dynamic memory which were not part of the course. Matrix cofactors are calculated recursively.
+<kbd>C</kbd>
 
-[Code]()
+This was the final project for my Introduction to Programming course. I developed a program written in C that can solve a linear system of equations of an arbitrary size. Importantly, this was my first approach to manual memory management and dynamic memory which were not part of the course. Matrix cofactors are calculated recursively.
+
+[Code](https://github.com/Bel16ario/cramerSolver)
 
 </div>
 <img src="/images/projects/matrix.jpg" alt="Matrix Solver" style="width: 700px; border-radius: 1px; flex-shrink: 0;">
@@ -121,6 +134,8 @@ This was the final project for my Introduction to Programming course. I develope
 <div style="flex: 1;">
 
 ### 2019
+
+<kbd>Inventor</kbd> <kbd>Photoshop</kbd> <kbd>Illustrator</kbd> <kbd>Design</kbd>
 
 This was the course project for my Design and Visual Communication (DVC) class during my senior year at Green Bay High School. Biomimicry was a central requirement in the course and during the first part of the academic year, I compiled photographs of nature during field visits. Particularly, I photographed leaves at the Domain Wintergardens. Through a few ideation stages, and with the influence of conic curves as well as constant client and stakeholder feedback, I landed on a steel, glass and MDF table design. Significant graphic material was rendered using Autodesk Inventor.
 

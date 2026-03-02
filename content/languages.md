@@ -1,6 +1,7 @@
 ---
 title: "Languages"
 draft: false
+description: "Languages spoken by Luca Belaunzarán: Spanish (native), English (C2), French (B2)"
 ---
 
 ## Spanish
