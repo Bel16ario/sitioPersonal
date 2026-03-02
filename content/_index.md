@@ -2,7 +2,7 @@
 title: "Luca Belaunzarán"
 draft: false
 showDate: false
-description: "Luca Belaunzarán - Aerospace Enginnering Student at UNAM. Specializing in aeroservoelasticity and morphic wings. Experienced in C, C++, embedded systems and reinforcement learning"
+description: "Luca Belaunzarán - Aerospace Engineering Student at UNAM. Specializing in aeroservoelasticity and morphic wings. Experienced in C, C++, embedded systems and reinforcement learning"
 ---
 
 <div style = "display:flex; gap:2rem; align-items:stretch;">
